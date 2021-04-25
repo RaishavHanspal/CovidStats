@@ -1,3 +1,3 @@
 # CovidStats
 
-Site hosted on -> https://raishavhanspal.github.io/CovidStats/
+Github Pages -> https://raishavhanspal.github.io/CovidStats/
